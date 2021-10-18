@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cristianlabadie" alt="cristianlabadie" /></a> </p>
 
-- 🔭 I’m currently working on **CEC Soluciones**
+- 🔭 I’m currently working on **La Vega Delivery and Salvala**
 
-- 🌱 I’m currently learning **GOLANG,**
+- 🌱 I’m currently learning **Ionic 5,**
 
 - 💬 Ask me about **Vue.js, laravel, ionic**
 
